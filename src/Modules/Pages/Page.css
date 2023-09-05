@@ -1,0 +1,25 @@
+
+
+
+
+/* product card  */
+
+
+.card1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+
+.contact111{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
